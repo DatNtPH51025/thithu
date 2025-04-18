@@ -1,0 +1,28 @@
+{
+  "XeMay": [
+    {
+      "ten_xe_ph51025": "Honda 1",
+      "hinh_anh_PH51025": "https://th.bing.com/th/id/OIP.53WIX2fcS_2xo5F6WYscggHaFj?rs=1&pid=ImgDetMain",
+      "gia_xe_PH51025": "10000",
+      "mau_xe_PH51025": "Vàng",
+      "mo_ta_PH51025": "Mới",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "ten_xe_ph51025": "Honda",
+      "mau_xe_PH51025": "Vàng",
+      "gia_xe_PH51025": "15000",
+      "mo_ta_PH51025": "Mới",
+      "hinh_anh_PH51025": "https://th.bing.com/th/id/OIP.53WIX2fcS_2xo5F6WYscggHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "ten_xe_ph51025": "a",
+      "hinh_anh_PH51025": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fthithu-d219b403-fe3d-4b68-9f32-c59142d143f6/ImagePicker/5a4f1322-96a8-43a6-8c13-f23185170653.jpeg",
+      "gia_xe_PH51025": "a",
+      "mau_xe_PH51025": "a",
+      "mo_ta_PH51025": "a",
+      "id": "3964"
+    }
+  ]
+}
